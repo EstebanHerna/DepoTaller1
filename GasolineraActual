@@ -1,0 +1,13 @@
+tipo:diesel:250:200.0
+tipo:Extra:150:650.0
+tipo:corriente:400:300.0
+tipo:plus:300:150.0
+surtidor:Franz:diesel:0.0:Extra:0.0:corriente:0.0:plus:0.0
+surtidor:Edwin:diesel:0.0:Extra:0.0:corriente:0.0:plus:0.0
+surtidor:Edwin:diesel:0.0:Extra:0.0:corriente:0.0:plus:0.0
+surtidor:Sandra:diesel:0.0:Extra:0.0:corriente:0.0:plus:0.0
+empleado:Camilo:0
+empleado:Edwin:0
+empleado:Daniel:0
+empleado:Franz:0
+empleado:Sandra:0
